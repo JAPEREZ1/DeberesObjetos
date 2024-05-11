@@ -21,3 +21,4 @@ Después, establecí un array llamado `multipliers` que contiene los múltiplos 
 Luego, en la función `decodedResistorValue`, tomé un array de tres colores correspondientes a las tres bandas de la resistencia. Calculé el valor de la resistencia multiplicando los valores numéricos de las dos primeras bandas y dividiendo por 10. Para el exponente, sumé 1 al valor numérico de la tercera banda.
 
 Finalmente, devolví una cadena formateada con el valor multiplicado por 10 elevado a la potencia del exponente, junto con el sufijo correspondiente según el valor del exponente.
+https://youtu.be/LlruCxGqSiE

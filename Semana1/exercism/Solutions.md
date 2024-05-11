@@ -15,3 +15,4 @@ ResistorColor:
 
 3. **Retorno de la función `colorCode`**: La función `colorCode` utiliza el método `indexOf` del array `COLORS` para encontrar el índice del color proporcionado como argumento. Este índice se devuelve como el resultado de la función. Si el color no se encuentra en el array `COLORS`, la función `indexOf` devuelve `-1`.
 
+https://youtu.be/gnK0pxX2o8w

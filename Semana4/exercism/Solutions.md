@@ -11,3 +11,5 @@ Lo hice agregando un constructor a la clase. Dentro del constructor, inicialicé
 También, calculé los puntos de salud (`hitpoints`) basados en la constitución (`constitution`) usando `getModifierFor()`. Esta función calcula el modificador de habilidad, que es el resultado de restar 10 del puntaje de habilidad y luego dividir por 2.
 
 Finalmente, agregué una función privada `generateRandomDiceRollScore()` que genera un número aleatorio entre 1 y 6, simulando el lanzamiento de un dado de seis caras. Con estas modificaciones, la clase ahora funciona correctamente y genera personajes con habilidades y puntos de salud aleatorios al instanciarse.
+
+https://youtu.be/GqGmUQTX6gk

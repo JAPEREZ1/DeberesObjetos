@@ -12,3 +12,4 @@ En este otro ejercicio empecé creando un objeto llamado `nuc_map`. Este objeto 
 
 Luego busque una funcion que me ayude en este caso y encontre una asi que definí la función `toRna` que toma una cadena de ADN como entrada. Dentro de esta función, utilicé el método `reduce` para iterar sobre cada letra de la cadena de ADN. Por cada letra, verifico si está presente en el objeto `nuc_map`. Si no lo está, lanzo un error indicando que la entrada de ADN es inválida.
 
+https://youtu.be/ThddKmkRMiU
